@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/smartigo/static/css/main.9819a7a9.chunk.css",
+    "main.js": "/smartigo/static/js/main.7f7c1c45.chunk.js",
+    "main.js.map": "/smartigo/static/js/main.7f7c1c45.chunk.js.map",
+    "runtime-main.js": "/smartigo/static/js/runtime-main.0ec3ebba.js",
+    "runtime-main.js.map": "/smartigo/static/js/runtime-main.0ec3ebba.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/smartigo/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.b7c1f5eb.chunk.js": "/smartigo/static/js/2.b7c1f5eb.chunk.js",
+    "static/js/2.b7c1f5eb.chunk.js.map": "/smartigo/static/js/2.b7c1f5eb.chunk.js.map",
+    "index.html": "/smartigo/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/smartigo/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.9819a7a9.chunk.css.map": "/smartigo/static/css/main.9819a7a9.chunk.css.map",
+    "static/js/2.b7c1f5eb.chunk.js.LICENSE.txt": "/smartigo/static/js/2.b7c1f5eb.chunk.js.LICENSE.txt",
+    "static/media/icong.fdfd3d56.png": "/smartigo/static/media/icong.fdfd3d56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ec3ebba.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.b7c1f5eb.chunk.js",
+    "static/css/main.9819a7a9.chunk.css",
+    "static/js/main.7f7c1c45.chunk.js"
+  ]
+}
