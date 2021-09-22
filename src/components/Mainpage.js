@@ -2,7 +2,7 @@ const Mainpage = ({ Changepage }) => {
 	return(
 		<div className="tc">
 			<h1>Hellooooooooo!</h1>
-			<h1>I am Smartigo</h1> 
+			<h1>I am SmartBrain</h1> 
 			<h2>Enter an image URL and I will detect the face in it!!</h2>
 			    <div className="center tc">
       			<input 
